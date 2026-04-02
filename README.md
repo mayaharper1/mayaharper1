@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Welcome to My Profile
 
-<!--
-**mayaharper1/mayaharper1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I share simple and practical keto recipes for everyday cooking.
 
-Here are some ideas to get you started:
+Here you'll find:
+- 🥑 Low-carb meal ideas  
+- 🥩 Keto-friendly recipes  
+- 🥗 Healthy eating tips  
+- 🍳 Easy home cooking  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you're following a keto lifestyle or want healthier food options, check out my website:
+
+👉 https://bestketodietrecipes.com/
+
+I regularly share helpful content to make keto cooking simple and enjoyable.
+
+---
+
+Thanks for visiting!
